@@ -1,0 +1,35 @@
+{
+  "version": "0.8",
+  "game_chd_sha256": "8544f155b0cbc4c11d97102ce73baed059589fbcb3e29b8e736d002d48e8011d",
+  "retroarch": {
+    "platform": "Windows x86_64",
+    "retroarch_version": "1.22.2",
+    "retroarch_git": "69a4f0e",
+    "retroarch_sha256": "81c11b6f24932bf7918f05eee8928035bff3887335fd2a081507c75e9d94d06a",
+    "core": "Flycast libretro",
+    "core_sha256": "bb2577bf3b32323f30a6c2c1877317ae43440706c0fc82c4ab6ed92e9f104263",
+    "stock_core": true,
+    "core_modified": false,
+    "real_BIOS": true,
+    "video_driver": "gl",
+    "internal_resolution": "640x480",
+    "fresh_boot": true,
+    "Korean_title_and_menu": true,
+    "native_song_caption_observed": true,
+    "new_game_started": true,
+    "new_game_completed_dialogue_pages": 3,
+    "private_VMU_load_via_original_menu": true,
+    "loaded_date": {
+      "month": 4,
+      "week": 4
+    },
+    "scenario_success": 3,
+    "scenario_failure": 0
+  },
+  "translation_occurrences_rechecked": 19040,
+  "previous59corrections_present": true,
+  "new_confirmed_translation_corrections": 0,
+  "fresh_full_linguistic_reread_claimed": false,
+  "whole_gameplay_and_acoustic_review_complete": false,
+  "physical_Dreamcast_tested": false
+}

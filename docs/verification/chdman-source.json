@@ -1,0 +1,8 @@
+{
+  "file": "mame0264-source.tar.gz",
+  "size": 207550597,
+  "sha256": "3d9f69ed3ef7c1628d5714c8ae2695ea77b1a652a93347b2703f7c862299376e",
+  "source_tag": "mame0264",
+  "archive_root": "mame-mame0264",
+  "copying_matches_bundled_notice": true
+}

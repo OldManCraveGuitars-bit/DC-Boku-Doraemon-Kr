@@ -1,0 +1,69 @@
+{
+  "version": "0.8",
+  "game_chd_sha256": "8544f155b0cbc4c11d97102ce73baed059589fbcb3e29b8e736d002d48e8011d",
+  "images": [
+    {
+      "file": "docs/screenshots/01-title.png",
+      "description": "한글 타이틀과 메인 메뉴",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "772a19290e59a452f758e9b6998318090cc74faee240c704d6e84caa3d5283d6",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/02-dialogue.png",
+      "description": "새 게임의 일반 대사",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "fa94d521cb7b7763b7628881624dee9db7812a9cf63d6bd1b9872e8e59210b85",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/03-calendar.png",
+      "description": "4월 제4주 달력 전환",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "f8a8a2950c4114e677abfbb3478cba753823f9d6bab1048c31457fe9518826fa",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/04-information.png",
+      "description": "정보창, 성공·실패와 팥빵 수량",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "17640e330b4df3bfc97a1dbc54c345398960a60e708dfe12fde593125f7ff52b",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/05-memory.png",
+      "description": "메모리 카드 불러오기 완료와 조작 안내",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "68c4e54c008228f5f1eee233faf79c46171b32452bbba6505dc6708aa7c6de48",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/06-pause.png",
+      "description": "게임 중 메뉴",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "c9116cd36808035eb647551d2420da1d26c712bfeb5b72fabd779f80790d824a",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/07-song.png",
+      "description": "게임 내부에서 출력하는 주제가 자막",
+      "capture": "RetroArch 1.22.2 / Flycast",
+      "sha256": "9da27488cf2ef6b3a090f173ef1d86ef4360f18db14fdad4d25bb5635298f66f",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/08-ending.png",
+      "description": "엔딩 제작진 한국어 자막",
+      "capture": "Flycast / 원본 엔딩 로더를 호출하는 QA 진입",
+      "sha256": "110dade1d2103b987ae71ca71d248ab30fe1d1403b52018334a0cb89e5c6b40c",
+      "original_bytes_preserved": true
+    },
+    {
+      "file": "docs/screenshots/09-credit.png",
+      "description": "한글화 크레딧",
+      "capture": "Flycast / 원본 엔딩 로더를 호출하는 QA 진입",
+      "sha256": "5869249c78e9104856e1980b3865790541a8a59f18fd86dd7de674548e6dfe39",
+      "original_bytes_preserved": true
+    }
+  ]
+}

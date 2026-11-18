@@ -1,0 +1,25 @@
+{
+  "version": "0.8",
+  "assets": [
+    {
+      "file": "DC-Boku-Doraemon-Kr-v0.8-Patcher.exe",
+      "size": 15233378,
+      "sha256": "80f84a1cadbc3a21d8454de1dde70327bb50ad2a9c5b68e65c829a0c24b5bdf1"
+    },
+    {
+      "file": "manifest.json",
+      "size": 2309,
+      "sha256": "8d3b9beebd64658eb8d2e7063b2227e92abd391383b1405cced053b4871e3830"
+    },
+    {
+      "file": "track05-v0.8.xdelta",
+      "size": 2365696,
+      "sha256": "891f8d693b682702d37383261757edbf571f9c8892282f5dbd406f968dd8bfc3"
+    },
+    {
+      "file": "mame0264-source.tar.gz",
+      "size": 207550597,
+      "sha256": "3d9f69ed3ef7c1628d5714c8ae2695ea77b1a652a93347b2703f7c862299376e"
+    }
+  ]
+}

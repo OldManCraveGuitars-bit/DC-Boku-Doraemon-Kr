@@ -1,0 +1,93 @@
+{
+  "game_id": "DC-Boku-Doraemon-Kr",
+  "version": "0.8",
+  "required_free_bytes": 3000000000,
+  "source": {
+    "file": "Boku Doraemon (Japan).chd",
+    "size": 282512915,
+    "sha256": "9ef09d65231aa437fa3d47b421c426d1cfde446d7e1d2edcdae6975d41b2a019"
+  },
+  "target": {
+    "file": "Boku Doraemon Korean-v0.8.chd",
+    "size": 281772476,
+    "sha256": "8544f155b0cbc4c11d97102ce73baed059589fbcb3e29b8e736d002d48e8011d"
+  },
+  "tracks": [
+    {
+      "size": 705600,
+      "sha256": "b885304e9aefa0de6e76395ba3cf14198496f679117d1910d7734089bd3a0482",
+      "number": 1,
+      "layout": [
+        0,
+        4,
+        2352,
+        0
+      ]
+    },
+    {
+      "size": 1735776,
+      "sha256": "7417c595f21a573674de228cedd73cc636868ae77d14af6829d5b9eeada65010",
+      "number": 2,
+      "layout": [
+        450,
+        0,
+        2352,
+        0
+      ]
+    },
+    {
+      "size": 318331440,
+      "sha256": "3151291b1dc2cc3a465c051817887fc3326afc7a25aedaf99ecda3655efd86a9",
+      "number": 3,
+      "layout": [
+        45000,
+        4,
+        2352,
+        0
+      ]
+    },
+    {
+      "size": 1559376,
+      "sha256": "60ba83bf397a02b69cd6ded7df77dd1aa69ffdd22c862554ebefbe88eb702181",
+      "number": 4,
+      "layout": [
+        180495,
+        0,
+        2352,
+        0
+      ]
+    },
+    {
+      "size": 865164384,
+      "sha256": "d05eeee149a4a3d476884d65c7b83badaec097064196209e558dae2d00ec4e16",
+      "number": 5,
+      "layout": [
+        181308,
+        4,
+        2352,
+        0
+      ]
+    }
+  ],
+  "data_track": {
+    "number": 5,
+    "source_sha256": "d05eeee149a4a3d476884d65c7b83badaec097064196209e558dae2d00ec4e16",
+    "target_sha256": "4041cb4baab610e8a4ae9d170dd9f5ec7a04d12dd3d126dbddeccf71f7fb694b",
+    "target_size": 865164384
+  },
+  "delta": {
+    "file": "track05-v0.8.xdelta",
+    "size": 2365696,
+    "sha256": "891f8d693b682702d37383261757edbf571f9c8892282f5dbd406f968dd8bfc3"
+  },
+  "chdman": {
+    "file": "chdman.exe",
+    "size": 3027456,
+    "sha256": "58d5f13b14a07d0d65f05fbaa5d78f62e85a0e98c6f4c89e423e44998b3ddff8"
+  },
+  "xdelta": {
+    "file": "xdelta3.exe",
+    "size": 340480,
+    "sha256": "2081fb24a7b8a89d068b58e7d9353647d5fc1512a68bb6a37f71fc60ca84d943"
+  }
+}

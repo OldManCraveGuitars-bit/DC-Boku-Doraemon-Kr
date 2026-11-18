@@ -1,0 +1,14 @@
+/build/
+/dist/
+/payload/
+__pycache__/
+*.pyc
+*.exe
+*.chd
+*.gdi
+*.bin
+*.raw
+*.iso
+*.xdelta
+*.partial
+*.log

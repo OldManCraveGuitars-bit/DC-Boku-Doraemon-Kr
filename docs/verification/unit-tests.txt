@@ -1,0 +1,16 @@
+test_data_track_hash_failure (test_patcher.PatcherTests.test_data_track_hash_failure) ... ok
+test_decoder_failure_cleans_only_workspace (test_patcher.PatcherTests.test_decoder_failure_cleans_only_workspace) ... ok
+test_existing_output_preserved (test_patcher.PatcherTests.test_existing_output_preserved) ... ok
+test_final_chd_hash_failure (test_patcher.PatcherTests.test_final_chd_hash_failure) ... ok
+test_insufficient_space_rejected (test_patcher.PatcherTests.test_insufficient_space_rejected) ... ok
+test_output_created_during_patch_is_preserved (test_patcher.PatcherTests.test_output_created_during_patch_is_preserved) ... ok
+test_payload_path_escape_rejected (test_patcher.PatcherTests.test_payload_path_escape_rejected) ... ok
+test_source_overwrite_rejected (test_patcher.PatcherTests.test_source_overwrite_rejected) ... ok
+test_success_and_unicode_paths (test_patcher.PatcherTests.test_success_and_unicode_paths) ... ok
+test_tampered_delta_rejected (test_patcher.PatcherTests.test_tampered_delta_rejected) ... ok
+test_wrong_size_or_hash_rejected (test_patcher.PatcherTests.test_wrong_size_or_hash_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.273s
+
+OK
